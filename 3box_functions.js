@@ -9,3 +9,4 @@ async function box1(){
 box1()
 
 // comment #1
+// comment #2
